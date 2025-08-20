@@ -16,7 +16,7 @@ GitHub is a develepor platform that uses the same power of Git, but online and w
 
 **2. Explain what "committing and pushing" means in your own words. Why are these steps important?**
 
-[Your answer here]
+Comitting and pushing are how you make changes made on your local device to the remote, online repository in GitHub. This is so that the people you collaborate and share your projects with (teachers, teammates, etc.) can see the changes you make. When you make commits, you can add commit messages to remind you and/or your teammates about the changes you made. Once you have commits, you can push them so that the changes are actually added.
 
 **3. What is a repository and what does it contain?**
 
