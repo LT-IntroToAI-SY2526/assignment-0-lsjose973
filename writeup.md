@@ -28,7 +28,7 @@ A repositories are where project work happens. They are kind of like folders: th
 
 **Link to your GitHub profile repository:** 
 
-[Paste your profile repository link here - it should look something like: https://github.com/yourusername/yourusername]
+https://github.com/lsjose973/lsjose973
 
 ---
 
