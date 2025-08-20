@@ -1,7 +1,7 @@
 # Assignment 0 Writeup
 
-**Name:** [Your name here]  
-**Date:** [Today's date]
+**Name:** Lyle Jose
+**Date:** 8/20/2025
 
 ---
 
@@ -10,7 +10,9 @@ All answers can be found in the README.md file
 
 **1. What is the difference between Git and GitHub?**
 
-[Your answer here]
+Git is a distributed Version Control System (VCS). Basically, its a tool that can be used to easily track changes to code, collaborating, and sharing. You can track changes that you make to projects so that yo ucan have records of what you've done--you can also revert back to older versions if necessary. It also makes collaborating with others easy.
+
+GitHub is a develepor platform that uses the same power of Git, but online and with an easy-to-use interface. It is very popular around the software world.
 
 **2. Explain what "committing and pushing" means in your own words. Why are these steps important?**
 
