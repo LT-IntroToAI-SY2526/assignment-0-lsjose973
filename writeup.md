@@ -20,7 +20,7 @@ Comitting and pushing are how you make changes made on your local device to the 
 
 **3. What is a repository and what does it contain?**
 
-[Your answer here]
+A repositories are where project work happens. They are kind of like folders: they contain assets like code, files, version history, and other things related to the project being worked on. They also have READMEs. READMEs are basic introductions to your project like why it is useful, what can be done with it, and how it can be used. 
 
 ---
 
@@ -36,8 +36,7 @@ Comitting and pushing are how you make changes made on your local device to the 
 
 **What aspect of AI are you most excited to learn about this year? Explain why.**
 
-[Your answer here - feel free to write a paragraph or more!]
-
+Im most excited to learn about how generative AI learns from our response and changes and configures itself to adapt to the user, like what kind of questions they ask, the types of responses that they are looking for etc.
 ---
 
 *Remember: This writeup will be graded based on the quality of your explanations and reflections, not just whether you got the "right" answer. Show your thinking!*
